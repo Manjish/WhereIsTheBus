@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986599377053",
+    "firebase_url": "https://ultrasonictest-8cadb.firebaseio.com",
+    "project_id": "ultrasonictest-8cadb",
+    "storage_bucket": "ultrasonictest-8cadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986599377053:android:35fefc80c14a1f1d",
+        "android_client_info": {
+          "package_name": "com.finalproject.whereisthebus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986599377053-p2an2v6eekunr0tdrm1lepddr233fvic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalproject.whereisthebus",
+            "certificate_hash": "31401aff94835f6053eb203998fd6a90fb1b38ce"
+          }
+        },
+        {
+          "client_id": "986599377053-ckk1ggpnlqgjud7ob9vtbcml1gjjt5g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKyKeMOc5HyddeJxnFjlsGY-95-ueo3-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986599377053-ckk1ggpnlqgjud7ob9vtbcml1gjjt5g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
